@@ -1,0 +1,11 @@
+{
+  "bidder": "bob",
+  "tender_id": "TND-20260221-8F191D",
+  "encrypted_bid": {
+    "nonce": "oHABPZbgQ9QwJuYh",
+    "ciphertext": "kPN1Pu+bluu+g/S04ZxJstVMwUyJ6Dv61+yxG889JgWGRI19mk7lcFxoHyYIjIULgcyHuuGP8xK1FvjLPSnF9UHyxS+5wkzAv2Ze1JuCr61HqRt+rG+sW8czbMMEqXRbHhnT4Ltqe6UbexgAs7xQ+2dvrORA8OPgTSsSjiKIxWfqoa83ePC2Ba4ZTqncilV4NiPNNnJ8tteC0+OLQbF9G7Pl820iftyXA+Sqqgk5DMaN9Q=="
+  },
+  "signature": "MEQCIAwKKcHgxmZx4u7YPoim6/q2Fp2mBId8NIA6XwbJ7XU9AiBaJmLV5Rdywq3z+RajkOZwmcxijfJWImSld0SGGJ1D8Q==",
+  "payload_hash": "62249f54d62a02a1ed5420d2fc870135051b647176587d9fa34f447b385dc1a5",
+  "submitted_at": "2026-02-21T06:52:06.931454+00:00"
+}

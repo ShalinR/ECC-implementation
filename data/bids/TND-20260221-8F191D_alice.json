@@ -1,0 +1,11 @@
+{
+  "bidder": "alice",
+  "tender_id": "TND-20260221-8F191D",
+  "encrypted_bid": {
+    "nonce": "auI/ckmcNW1MgPqC",
+    "ciphertext": "Ltl4Kw+pvWZZyzWqlpfxXsIVqa4y7Lsuqi9DdwZ3P/WdbSvEj6mgXTCIhaGzCSFcYFfZFuHq6ssks5DB57wZaX72XZGYj4LPJZHwrZDIGf1MgEKoV9+wz6wUpG6rtn+z2Ne4gLHgr72Jnn4XXcTwH7UO79/NPiX8YSSQWDHiEaHISyeKX3IDSzBnt1UJz6QgGKZ7ajfwz6Wf/5Ibar7kPXJUE5TFS39BYUJV//KPSt14svY="
+  },
+  "signature": "MEUCIQDn8On/KfC3lOLbO+axdP23NfyEFWflz3jXxrUhLq7TjgIgRVpyBy/HIYkRPWDTXwSg5lIJOEw1QtN77ngNiZvVZkY=",
+  "payload_hash": "93c249dbb17f49561928ee1c155d87101261f6cf358f102a59479965f1bbcfaa",
+  "submitted_at": "2026-02-21T06:52:06.903060+00:00"
+}

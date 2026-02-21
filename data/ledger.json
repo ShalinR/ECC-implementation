@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-02-21T06:52:06.829828+00:00",
+    "event_type": "BIDDER_REGISTERED",
+    "data_hash": "6cd3f7141bf26281dba8514a4c9a424ba6eed003882f5dfda2ddd4900bffc568",
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "entry_hash": "5f1541521a873ee7465e83d701d46d0cd17fedba143bb8562508666fc6a2ab8c",
+    "metadata": {
+      "bidder_name": "alice"
+    }
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-02-21T06:52:06.845437+00:00",
+    "event_type": "BIDDER_REGISTERED",
+    "data_hash": "3b3a811fd516627d61f23e4c19898ea828dfe0dd3d430c550279b1aa6d9bd5a3",
+    "previous_hash": "5f1541521a873ee7465e83d701d46d0cd17fedba143bb8562508666fc6a2ab8c",
+    "entry_hash": "41eb2c7c6deeafe907e8eac9541aa680c1901ef77ee738d27ea043a8dcae4f84",
+    "metadata": {
+      "bidder_name": "bob"
+    }
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-02-21T06:52:06.862522+00:00",
+    "event_type": "BIDDER_REGISTERED",
+    "data_hash": "5ce0d201a4ae18f7bb7adc0f0462425dd7c7354112837b0ca8395bad4f10ac9f",
+    "previous_hash": "41eb2c7c6deeafe907e8eac9541aa680c1901ef77ee738d27ea043a8dcae4f84",
+    "entry_hash": "c947dafefa899922e301a5f3be8d8ac8a09089509572882ed3d8cc905175df68",
+    "metadata": {
+      "bidder_name": "charlie"
+    }
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-02-21T06:52:06.879001+00:00",
+    "event_type": "TENDER_CREATED",
+    "data_hash": "221b15a824fb551c27fbaff929a3db050b8f5cf09a9883019996798ac3df2e06",
+    "previous_hash": "c947dafefa899922e301a5f3be8d8ac8a09089509572882ed3d8cc905175df68",
+    "entry_hash": "5380608c99a5631766e60007e82ee41d560a162a4891ab648dd8b4fba4e68db0",
+    "metadata": {
+      "tender_id": "TND-20260221-8F191D",
+      "title": "Office Supplies Procurement 2026"
+    }
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-02-21T06:52:06.918318+00:00",
+    "event_type": "BID_SUBMITTED",
+    "data_hash": "24d12f87d2026fe92f592dbb5a062f0e4807082e481766e7b8d0742c8a7d8911",
+    "previous_hash": "5380608c99a5631766e60007e82ee41d560a162a4891ab648dd8b4fba4e68db0",
+    "entry_hash": "7687be5c0722a74636586bd83c02d8194d24b24f0fca708618e069a834544089",
+    "metadata": {
+      "bidder": "alice",
+      "tender_id": "TND-20260221-8F191D"
+    }
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-02-21T06:52:06.944951+00:00",
+    "event_type": "BID_SUBMITTED",
+    "data_hash": "1156293329b3437bcb51a040dc5d59b956109e1c7db63ea5f834eead12632d4f",
+    "previous_hash": "7687be5c0722a74636586bd83c02d8194d24b24f0fca708618e069a834544089",
+    "entry_hash": "579897f5771a5639d15b943428c52d7a1feacf3ec45812610fbf2941f4ec5148",
+    "metadata": {
+      "bidder": "bob",
+      "tender_id": "TND-20260221-8F191D"
+    }
+  },
+  {
+    "index": 6,
+    "timestamp": "2026-02-21T06:52:06.973591+00:00",
+    "event_type": "BID_SUBMITTED",
+    "data_hash": "6d50b3af2ac6d5fa84929c404b4b8a8df573acdab307d1bfeef11c8187e2bc79",
+    "previous_hash": "579897f5771a5639d15b943428c52d7a1feacf3ec45812610fbf2941f4ec5148",
+    "entry_hash": "e63714f549fc272620ccce4e996a9f29c6c77929e45db0be70c1da5f4dc9d6af",
+    "metadata": {
+      "bidder": "charlie",
+      "tender_id": "TND-20260221-8F191D"
+    }
+  },
+  {
+    "index": 7,
+    "timestamp": "2026-02-21T06:52:07.051510+00:00",
+    "event_type": "BID_OPENED",
+    "data_hash": "29611ec24f9604ce4fef1d676a579bc8051f557dc90e40f85484a9e6c24b6506",
+    "previous_hash": "e63714f549fc272620ccce4e996a9f29c6c77929e45db0be70c1da5f4dc9d6af",
+    "entry_hash": "d2cc41e0f16243a13ffff01f0db0ffb98623837bd9d007b7d14efbffd43a0d0c",
+    "metadata": {
+      "tender_id": "TND-20260221-8F191D",
+      "bidder": "alice",
+      "signature_valid": true
+    }
+  },
+  {
+    "index": 8,
+    "timestamp": "2026-02-21T06:52:07.098779+00:00",
+    "event_type": "BID_OPENED",
+    "data_hash": "ebeca78a2ced59466e58f5d10c90e2d7f8e22bce2d4766d90d9780b341c0f338",
+    "previous_hash": "d2cc41e0f16243a13ffff01f0db0ffb98623837bd9d007b7d14efbffd43a0d0c",
+    "entry_hash": "8cc559218296946b3a98ff86404b9c7e5da10c790f597ef8a466cdfa16665015",
+    "metadata": {
+      "tender_id": "TND-20260221-8F191D",
+      "bidder": "bob",
+      "signature_valid": true
+    }
+  },
+  {
+    "index": 9,
+    "timestamp": "2026-02-21T06:52:07.141970+00:00",
+    "event_type": "BID_OPENED",
+    "data_hash": "6b1817d111c57a75b54461416c8b3fd97f58562b490f026fc50d45aaffb2d5a3",
+    "previous_hash": "8cc559218296946b3a98ff86404b9c7e5da10c790f597ef8a466cdfa16665015",
+    "entry_hash": "7e2a97fd04ba2edf37d511041c4b84a76048fbf6d2ae93c7243ef61078f60678",
+    "metadata": {
+      "tender_id": "TND-20260221-8F191D",
+      "bidder": "charlie",
+      "signature_valid": true
+    }
+  }
+]
