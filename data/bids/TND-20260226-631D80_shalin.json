@@ -1,0 +1,12 @@
+{
+  "bidder": "shalin",
+  "tender_id": "TND-20260226-631D80",
+  "encrypted_bid": {
+    "ephemeral_pub": "BFRVSD+XLNTbSKEmsBFdAwTGlZbaFN750xyOPuUVUBkcX/OxF7UgVskRn8TvmOEHiv1mL1m4DkS7PYrNfUuMQks=",
+    "nonce": "rm7tLiwYaevdX42K",
+    "ciphertext": "8vinXIeq6d/8zkf/xQ0e572svCguNvOpsL/bLvvyd8hAGKDTaXS6xNSEg3KB/OVj4HxAN5Ob/fjFOUSE2LswsYCFMf/ZoAh1WQ62yZ89o/roFooh1tTONWNcyK0JvAMZn+pZKoUUag0vUY/6XhibQNJZvWBfL+QEwhmwOk+m7CeXj8wyluBnqMZDwMVSnW4diMi5y3oxVvObI0kXUttLsq1f8ES9nD7g"
+  },
+  "signature": "MEUCIA0dHYwff/1lnd9YYu9zRYIt6TNitJfO4jarOnfhelzjAiEA5hfUil2a6c7+QiPW6HI9EMc3WjLzejpAMRWm4AnTieM=",
+  "payload_hash": "a27a1e7bbf1f7c0db3af7623896ab704fed2abde8dc1213b38c927551e24ed7e",
+  "submitted_at": "2026-02-26T07:38:13.262092+00:00"
+}
