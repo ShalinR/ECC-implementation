@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 cryptography>=42.0
 pyshamir>=0.6
+=======
+cryptography>=42.0
+pyshamir>=0.6
+>>>>>>> 3f9933bcf52c44ef351885c43cf19f66d0167f0f
