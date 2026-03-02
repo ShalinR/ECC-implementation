@@ -72,3 +72,8 @@ data/                # Created at runtime
 
 - `cryptography` — ECC, ECDSA, ECDH, AES-GCM, HKDF
 - `pyshamir` — Shamir's Secret Sharing
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 9ebb97d54f9dd44ef07ad4ccff0b52b059d1f4ac
